@@ -12,6 +12,8 @@ Performance basics are covered: assets are minified into single CSS and JS files
 
 [LIVE PREVIEW](http://www.jamesarc.com/work/wheelz/)
 
+![Website preview](http://www.jamesarc.com/assets/img/work/work-wheelz.jpg)
+
 ## Misc:
 
 * Follow Jamesarc: [Website](http://www.jamesarc.com), [GitHub](https://github.com/jamesarc)
